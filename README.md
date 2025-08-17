@@ -56,13 +56,3 @@ Here’s what the GUI looks like when running CutResolve:
 - ⏳ **Processing Indicator** → See when the tool is analyzing your file  
 - ✅ **Completion Message** → Confirms the `.edl` file is ready for import  
 
----
-
-## 💻 COMMAND LINE USAGE (OPTIONAL)  
-
-```bash
-python CutResolve.py
-=======
-# cutresolve
-CutResolve is a lightweight desktop app built with Python that analyzes your video, detects every scene change, and automatically generates an EDL (Edit Decision List) file. You can import the EDL straight into DaVinci Resolve Studio to get a timeline with cuts already in place.
->>>>>>> 2762dea5a12881068ddc4ecd1b63845e2449c5b9
