@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 CutResolve  
 
 ![CutResolve Banner](banner.png)  
